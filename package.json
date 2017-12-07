@@ -1,0 +1,29 @@
+{
+  "name": "fuzzy-search-and-comparison",
+  "version": "1.0.0",
+  "description": "JavaScript library for fuzzy search and comparison of strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node examples.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yvolohov/fuzzy-search-and-comparison.git"
+  },
+  "keywords": [
+    "fuzzy",
+    "search",
+    "searching",
+    "string",
+    "strings",
+    "compare",
+    "comparing",
+    "comparison"
+  ],
+  "author": "Yaroslav Volohov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yvolohov/fuzzy-search-and-comparison/issues"
+  },
+  "homepage": "https://github.com/yvolohov/fuzzy-search-and-comparison#readme"
+}
